@@ -1,4 +1,5 @@
 Portfolio Artifact: Software Design Document – The Gaming Room
+
 Summary of the Client and Requirements
 The Gaming Room is a company that offers a turn-based multiplayer game called Draw It or Lose It. 
 The game was only available on Android at the time of the project. 
